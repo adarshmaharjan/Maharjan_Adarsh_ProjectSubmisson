@@ -1,0 +1,10 @@
+[project]
+name = "cd13926-building-generative-ai-applications-with-amazon-bedrock-and-python-project-solution"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "boto3>=1.41.2",
+    "streamlit>=1.51.0",
+]
