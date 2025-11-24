@@ -2,7 +2,7 @@
 
 # Aurora cluster ARN and secret ARN
 CLUSTER_ARN="arn:aws:rds:us-west-2:524734461030:cluster:my-aurora-serverless"
-SECRET_ARN="arn:aws:secretsmanager:us-west-2:524734461030:secret:my-aurora-serverless-gcXBsC"
+SECRET_ARN="arn:aws:secretsmanager:us-west-2:524734461030:secret:my-aurora-serverless-Zirynx"
 DATABASE_NAME="myapp"
 REGION="us-west-2"
 
